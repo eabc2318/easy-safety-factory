@@ -314,7 +314,9 @@ button {
 }
 
 .logo {
-     padding-top: 14px;
+     padding-top: 10px;
+     width: 120px;
+     height: auto;
 }
 
 
